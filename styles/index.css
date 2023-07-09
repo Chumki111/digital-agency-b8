@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.nav-container{
+    display: flex;
+    background-color: gray;
+    padding: 10px;
+    justify-content: space-around;
+}
+.manus{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 25px;
+    font-size: 20px;
+    color:#fff;
+    font-style: italic;
+}
