@@ -50,3 +50,33 @@
     background: red;
     color: #fff;
 }
+.service-container{
+
+    background-image: url('../asset/image/footer-bg.png'),linear-gradient(rgb(0, 0, 0,1),rgb(0, 0, 0,1));
+    background-blend-mode: overlay;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+.icon{
+    width: 70px;
+    margin-bottom: 20px;
+}
+.box{
+    width: 150px;
+    height: 100px;
+    padding: 50px;
+    background-color: #fff;
+    color: black;
+    text-align: center;
+    border-radius: 5px;
+   
+}
+.service-description{
+    width: 50%;
+}
