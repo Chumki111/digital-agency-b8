@@ -80,3 +80,23 @@
 .service-description{
     width: 50%;
 }
+.first-two-box{
+    display: flex;
+    gap: 5px;
+    margin-top: 5px;
+}
+.author-img{
+    width: 70px;
+    height: 70px;
+    border-radius: 35px;
+}
+.author-container{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+.author-profile{
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
